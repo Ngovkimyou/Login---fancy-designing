@@ -12,7 +12,7 @@ body {
     align-items: center;
     min-height: 100vh;
     min-width: 100vh; 
-    background: url(/images/starry_sky.jpg) no-repeat center;
+    background: url(images/starry_sky.jpg) no-repeat center;
     background-size: cover; 
 }
 
@@ -30,7 +30,7 @@ body {
 .mask {
     width: 500px;
     height: 463px;
-    background: url(/images/starry_sky.jpg) no-repeat;
+    background: url(images/starry_sky.jpg) no-repeat;
     background-position: center, center;
     background-size: 200%;
     backdrop-filter: blur(50px);
@@ -255,4 +255,5 @@ body {
     color: red;
     cursor: pointer;
 }
+
 
